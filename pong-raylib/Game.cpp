@@ -130,7 +130,7 @@ void Game::Update()
         if (ball.x < 0)
         {
 
-            winnerMassage = "Right Player Wins!";
+            winnerMassage = "Blue Player Wins =)";
 
 
 
@@ -139,7 +139,7 @@ void Game::Update()
         if (ball.x > GetScreenWidth())
         {
 
-            winnerMassage = "Left Player Wins!";
+            winnerMassage = "Red Player Wins =)";
 
 
         }
