@@ -32,14 +32,28 @@ My game has one main windows, *Board*.
 git clone https://github.com/AliElsheeikh/pong.git
 ```
 
-
 ## Controls
 
-|                 | Left Player                                       | Right Player |
-|-----------------|---------------------------------------------------|----------|
-| **Move**        | <kbd>W</kbd> <kbd>S</kbd>                         | <kbd>&#8593;</kbd><kbd>&#8595;</kbd> |
-| **Start**       | <kbd>Backspace </kbd>                                 |  |
-| **Exit**       | <kbd>ESC </kbd>                                 |  |
+__How to play?__
+
+Player   |     Keys                | Moviment
+------   | -----------             | --------
+Left     |     <kbd> W </kbd>      |    Up
+Left     |      <kbd>S</kbd>       |   Down
+Right    | <kbd>&#8593;</kbd>      |    Up
+Right    | <kbd>&#8595;</kbd>      |   Down
+
+
+__There's also action keys!__
+
+ Key  |      Action      |
+------| -----------------|
+ <kbd>ESC </kbd>  |  Exit game
+<kbd>Backspace </kbd>   |  start game 
+
+ 
+
+
 
 ## Screenshots
 
