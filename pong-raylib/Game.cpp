@@ -72,6 +72,12 @@ void Game::Update()
 {
     if (start == false)
     {
+
+        int widthText0 = MeasureText("Press Space to Start", 60);
+
+        DrawText("Press Space to Start", GetScreenWidth() / 2 - widthText0 / 2, GetScreenHeight() / 2 - 80, 60, YELLOW);
+
+
         if (IsKeyPressed(KEY_SPACE))
         {
 
