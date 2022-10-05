@@ -1,4 +1,6 @@
-# pong
+# Pong
+Simple Pong game using Raylib
+
 
 
 ![GIF](Screenshot/GIF.gif)
@@ -20,7 +22,8 @@
 <a name="Description"></a>
 ## Description.
 
-This is my first game finished with [Raylib](https://www.raylib.com/) library and *C++* language, is cool when you can finish a project, even small project like this. begin is easy but finishe is other thing.
+
+This is my first game finished with *C++* language and [Raylib](https://www.raylib.com/) library , is cool when you can finish a project, even small project like this. begin is easy but finishe is other thing.
 
 My game has one main windows, *Board*.
 
